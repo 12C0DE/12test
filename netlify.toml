@@ -1,5 +1,5 @@
 [build]
-  base    = "docusaurus/website"
+  base    = "packages/cra-template/template/"
   publish = "./build"
   command = "npm run build"
   
