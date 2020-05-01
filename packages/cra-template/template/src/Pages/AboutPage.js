@@ -1,5 +1,4 @@
 import React from 'react';
-import Center from '../Component/Center/Center';
 import classes from '../scss/main.scss';
 import EdgeButton from '../Component/EdgeButton';
 import TBbutton from '../Component/TBbutton'
