@@ -1,5 +1,5 @@
 [build]
-  base    = "packages/cra-template/template/src"
+  base    = "packages/cra-template/template/"
   publish = "./build"
   command = "npm run build"
   
